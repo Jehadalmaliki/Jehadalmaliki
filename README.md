@@ -1,4 +1,4 @@
-# Hi, I'm Jehad  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="15px">
+# Hi, I'm Jehad  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px">
 
 
 - 🔭 I’m currently working to be Full Stack Developer
