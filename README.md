@@ -15,3 +15,5 @@
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jehadalmaliki&theme=highcontrast&hide_border=true" alt="#your-username" />
 </p>
 
+ ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
