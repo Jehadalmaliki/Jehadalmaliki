@@ -1,4 +1,4 @@
-# Hi, I'm Jehad  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="5px">
+# Hi, I'm Jehad  Ali 
 
 
 - 🔭 I’m currently working to be Full Stack Developer
@@ -8,4 +8,6 @@
 - ❤️ Team Player ,Team Spirit ,Strong Logic , Research.
 - 📫 How to reach me engjehadali5@gmail.com
 
+# 
+![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
 
