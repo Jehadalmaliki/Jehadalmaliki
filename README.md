@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F7962D&width=500&lines=Welcome+to+Jehad's+profile!;Full+Stack+Web+Dev;Software+Engineering;Always+learning+new+thing!;Nice+to+meet+you+...)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working to be Full Stack Developer.
+- 🔭 I’m currently working as Freelancer , build a website.
 - 🌱 I’m currently learning vue js.
 - 👯 I’m looking to collaborate on any project.
 - 💬 Ask me about laravel.
